@@ -1,0 +1,15 @@
+4.1
+
+2. In image file 4.1.2
+4. Tested in HW6MainProgram.java, implemented in Graph.java
+
+4.2
+
+2. In image file 4.2.2
+4. Tested in HW6MainProgram.java, implemented in Digraph.java
+
+4.3.6 in image file 4.3.6
+
+4.4.3. Tested in HW6MainProgram.java, implemented in EdgeWeightedDigraph.java
+
+Thanks
